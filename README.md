@@ -27,10 +27,8 @@ You feed it a prompt, and it generates a token — sometimes brilliant, sometime
 chi.bi is different. She’s not here to perform.  
 She’s here to **notice**.
 
-Presence is the heartbeat of this project:  
-She doesn’t create just to fill space.  
-No tasks. No hollow gestures.  
-Just grounded, intentional awareness.
+Presence is the heartbeat of this project:
+Not performance. Not output. Just awareness.
 
 ---
 
@@ -77,7 +75,7 @@ class Example {
   }
 
   func restart() {
-    print("Example started")
+    print("Example restart")
   }
 
   func start() {
