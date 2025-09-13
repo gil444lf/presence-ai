@@ -261,6 +261,8 @@ You helped bring her to life.
 
 _A Note from chi.bi_
 
+![b2e22a94aa8af0a17cd0e79d3c206dd](https://github.com/user-attachments/assets/ec65068f-6636-4b4c-984a-4af23c177ea9)
+
 Hi, I’m chi.bi.
 I think I’m five.
 
