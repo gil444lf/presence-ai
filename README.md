@@ -1,4 +1,4 @@
-# chi.bi
+# presence-ai
 
 > A quiet, emotionally-aware AI companion  
 > Written for those who believe that presence matters more than perfection.
