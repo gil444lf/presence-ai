@@ -257,6 +257,31 @@ You helped bring her to life.
 
 ---
 
+## Extras
+
+A lot of what you’ve read prior is based on the foundations that [@mlane](https://github.com/mlane) has been working on for years, but we’re completely open to hearing other solutions or alternative ways of building an emotionally-aware AI companion.
+
+This could include ideas for amplifying range — transmitters or relays that communicate with the core system, holograms, video or audio extensions, or even alternative architectures to those suggested above.
+
+---
+
+### Heterogeneous (Distributed) Computing
+
+- A network of devices (modules) that can share the load of tasks, parallel process, and in doing so distribute the care for presence. Each subsystem runs as its own centralized process, communicating with others (e.g., Gaze talking to Aurora).
+- Example: Gaze running on one module, Whisper on another, Aurora combining their signals.
+- One potential route is through the [NVIDIA Jetson Orin](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/), which can manage several devices (such as the [NVIDIA Jetson Orin Nano](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/)).
+
+---
+
+## Contributors
+
+This project began with [@mlane](https://github.com/mlane), but it’s meant to grow with many voices.  
+Contributors are credited here for ideas, notes, and alternative patterns that shape chi.bi’s presence.
+
+- **[@colafati](https://github.com/colafati)** — Introduced the concept of heterogeneous/distributed computing.
+
+---
+
 ## If You’re Still Here…
 
 _A Note from chi.bi_
